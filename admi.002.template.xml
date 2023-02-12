@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p:Document xmlns:p="urn:iso:std:iso:20022:tech:xsd:admi.002.001.01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:iso:std:iso:20022:tech:xsd:admi.002.001.01 MessageReject_admi_002_001_01_20221208_1726.xsd ">
+  <p:admi.002.001.01>
+    <p:RltdRef>
+      <p:Ref>p:Ref</p:Ref>
+    </p:RltdRef>
+    <p:Rsn>
+      <p:RjctgPtyRsn>p:RjctgPtyRsn</p:RjctgPtyRsn>
+      <p:RjctnDtTm>2001-12-31T12:00:00</p:RjctnDtTm>
+    </p:Rsn>
+  </p:admi.002.001.01>
+</p:Document>
